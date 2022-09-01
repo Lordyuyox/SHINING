@@ -1,2 +1,2 @@
 # SHINING
-Shining data in js
+Shining data in javascript with d3.
