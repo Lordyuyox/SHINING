@@ -1,0 +1,78 @@
+.tooltip {
+    background: rgb(255, 255, 255);
+    border: 1px solid black;
+    font-family: small;
+    font-size: 11px;
+    padding: 4px;
+    pointer-events: none;
+    text-align: left;
+}
+
+.tooltip p {
+    margin: 4px 0;
+}
+.tooltip2 {
+    background: rgba(255,255,255,.9);
+    border: 1px solid black;
+    font-family: small;
+    font-size: 11px;
+    padding: 4px;
+    pointer-events: none;
+    text-align: left;
+}
+
+.tooltip2 p {
+    margin: 4px 0;
+}
+.tooltip3 {
+    background: rgba(255,255,255,.9);
+    border: 1px solid black;
+    font-family: small;
+    font-size: 11px;
+    padding: 4px;
+    pointer-events: none;
+    text-align: left;
+}
+
+.tooltip3 p {
+    margin: 4px 0;
+}
+.tooltip4 {
+    background: rgba(255,255,255,.9);
+    border: 1px solid black;
+    font-family: small;
+    font-size: 11px;
+    padding: 4px;
+    pointer-events: none;
+    text-align: left;
+}
+
+.tooltip4 p {
+    margin: 4px 0;
+}
+.tooltip5 {
+    background: rgba(255,255,255,.9);
+    border: 1px solid black;
+    font-family: small;
+    font-size: 11px;
+    padding: 4px;
+    pointer-events: none;
+    text-align: left;
+}
+
+.tooltip5 p {
+    margin: 4px 0;
+}
+.tooltip6 {
+    background: rgba(255,255,255,.9);
+    border: 1px solid black;
+    font-family: small;
+    font-size: 11px;
+    padding: 4px;
+    pointer-events: none;
+    text-align: left;
+}
+
+.tooltip6 p {
+    margin: 4px 0;
+}
