@@ -125,4 +125,9 @@ Promise.all([
 
     // EXIT: existian pero ahora ya no
     circles.exit().remove();
+    let legend = swatches({
+        colour: color
+    });
+
+    d3.select("#legend").insert(() => legend);
 })
